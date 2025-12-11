@@ -81,8 +81,3 @@ All sensor data is uploaded to ThingSpeak periodically for remote monitoring.
 3. Upload to ESP32.  
 4. Power the SIM900A with a stable **5V 2A** supply.  
 5. Watch the LCD and serial output to verify operation.
-
----
-
-## 📈 Output You Can Expect
-### LCD Screen
