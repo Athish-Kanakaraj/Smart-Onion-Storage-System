@@ -75,7 +75,7 @@ SIM900A must use a dedicated 2A power supply. Do NOT power it from ESP32.
 
 ---
 
-## 🧷 Power Notes
+## 🧷 Power Guidelines
 - ESP32 powered via USB or 5V pin  
 - SIM900A must have **stable 5V 2A**  
 - All modules must share a **common ground**
